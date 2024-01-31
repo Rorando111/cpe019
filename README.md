@@ -9,7 +9,7 @@ This github repository contains and will contain the hands-on-activities in this
 - [@Rorando111](https://github.com/Rorando111)
 
 ## 🚀 About Me
-I'm a Rolando F. Celeste. Currently a 3rd year BSCPE student. 
+Hi! I am Rolando F. Celeste. Currently a 3rd year BSCPE student. 
 
 [![Rorando111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rorando111)](https://github.com/Rorando111/github-readme-stats)
 
